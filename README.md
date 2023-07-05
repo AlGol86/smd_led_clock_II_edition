@@ -10,3 +10,5 @@ This clock has a hand made led indicator equipped with adoptive brithness adjust
 
 ## Device appearance:
 ![appearance](https://github.com/AlGol86/smd_led_clock_II_edition/blob/main/Pictures/1.jpg)
+![appearance](https://github.com/AlGol86/smd_led_clock_II_edition/blob/main/Pictures/2.jpg)
+![appearance](https://github.com/AlGol86/smd_led_clock_II_edition/blob/main/Pictures/3.jpg)
